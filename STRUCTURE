@@ -1,0 +1,20 @@
+|-- .github/
+|   |-- workflows/
+|   |   |-- release.yml
+|   |   |-- test.yml
+|-- .idea/
+|   |-- .gitignore
+|-- interlocutor/
+|   |-- __init__.py
+|   |-- interlocutor.py
+|   |-- utils.py
+|-- tests/
+|   |-- __init__.py
+|   |-- test_interlocutor.py
+|   |-- test_utils.py
+|-- .gitignore
+|-- HISTORY.md
+|-- LICENSE
+|-- pyproject.toml
+|-- README.md
+|-- STRUCTURE
